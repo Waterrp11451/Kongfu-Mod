@@ -1,0 +1,21 @@
+/give Dev kongfumod:dragon_subducing_palms
+/give @s kongfumod:spirit_stone
+/xp add Dev 100
+/xp set Dev 100
+/xp set Dev 40
+/xp set Dev 5
+/gamemode survival
+/gamemode creative
+/summon kongfumod:flying_sword_entity
+/gamerule keepInventory true
+/kill @e
+/summon kongfumod:flying_sword_entity
+/time set dy
+/time set day
+/summon kongfumod:flying_sword_entity
+/kill @e
+/summon kongfumod:flying_sword_entity
+/kill @e
+/summon kongfumod:flying_sword_entity
+/kill
+/summon kongfumod:flying_sword_entity
